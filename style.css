@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(239, 222, 225);
+}
+#heading{
+    color: blue;
+    font-size: 34px;
+}
+.list{
+    color: green;
+    font-size: 28px;
+}
+li{
+    color: green;
+    font-size: 28px;
+}
